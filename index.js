@@ -1,7 +1,5 @@
-const surveyLinks = [
-    "https://github.com/Haohan11/directToSurvey",
-    "https://github.com/Haohan11/fitness-fortress",
-    "https://github.com/Haohan11/reactDemo",
-]
+import surveyLinks from "/surveyLinks.js";
 
-window.location.assign(surveyLinks[Math.floor(Math.random() *3)])
+window.location.assign(
+  surveyLinks[Math.floor(Math.random() * surveyLinks.length)]
+);
