@@ -1,7 +1,7 @@
 const  surveyLinks = [
-  "https://github.com/Haohan11/directToSurvey",
-  "https://github.com/Haohan11/fitness-fortress",
-  "https://github.com/Haohan11/reactDemo",
+  "https://www.surveycake.com/s/9yP79",
+  "https://www.surveycake.com/s/Oap97",
+  "https://www.surveycake.com/s/bNVmd",
 ];
 
 export default surveyLinks;
